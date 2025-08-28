@@ -140,6 +140,3 @@ curl -s "http://localhost:8080/api/nytimes/homepage" | jq
 * 📜 Add filtering and pagination
 
 ---
-
-
-Do you want me to do that?
